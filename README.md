@@ -1,4 +1,3 @@
-//------------------------------------------//
 #include "ambition"  
 #include "hardwork"  
 using namespace knowledge;  
