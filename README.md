@@ -1,9 +1,9 @@
 # Hi 👋, I'm Abd Ur Rehman
 ### A software engineering student at FAST with a passion to learn new things
-
 - 🔭 I’m currently working on **a lost and found portal**
 - 🌱 I’m currently learning **React + Spring**
 - 📫 How to reach me: **naeemabdulrehman77@gmail.com**
+- 😂 "Can exit Vim by myself! 😎"
 
 ## Connect with me
 <!-- You can add badges or social icons here later -->
