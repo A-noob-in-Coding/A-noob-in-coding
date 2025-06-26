@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA5NzM2NDcsIm5iZiI6MTc1MDk3MzM0NywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI2VDIxMjkwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc2M2RhZDkxY2Q1MmU3NmU1NzE4MzU5MWNlNTU5NzY0MWYxMzEzZjdjZGUwZGNmOWNiZDYxMTU5OWFiMjY5ZmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Z81DPXj7qM-sC1A16UzVf50CAUVXU3jek255JR4FGz8" width="100%" height="auto">
+</div>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Lost and Found Portal<br>🌱 I’m currently learning Spring + React<br>⚡ Can exit vim by myself
 
