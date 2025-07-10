@@ -13,6 +13,14 @@
 [![Resume](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://a-noob-in-coding.github.io/Resume/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://a-noob-in-coding.github.io/portfolio/#skills)
 
+
+[![Codewars](https://www.codewars.com/users/A-noob-in-Coding/badges/large)](https://www.codewars.com/users/A-noob-in-Coding)
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/A-noob-in-Coding)
+
+
+
 ## 💻 Tech Stack
 
 ### Programming Languages
