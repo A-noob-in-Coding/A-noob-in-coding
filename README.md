@@ -6,7 +6,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Lost and Found Portal<br>🌱 I’m currently learning Spring + React<br>⚡ Can exit vim by myself
 
-
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naeemabdulrehman77@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-ur-rehman-naeem-a69979254/)
@@ -20,6 +19,8 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/A-noob-in-Coding)
 
 
+[![Linux Essentials](https://images.credly.com/size/220x220/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png)](https://www.credly.com/badges/baf7cc1b-fa7e-41ec-aecd-3115f5464fd4/public_url)
+[![Linux Unhatched](https://images.credly.com/size/220x220/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png)](https://www.credly.com/badges/efca933e-5736-416a-a9b2-f25dc4a0db0f/public_url)
 
 ## 💻 Tech Stack
 
