@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naeemabdulrehman77@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-ur-rehman-naeem-a69979254/)
 [![Resume](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://a-noob-in-coding.github.io/Resume/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://a-noob-in-coding.github.io/portfolio/#skills)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://a-noob-in-coding.me)
 
 
 [![Codewars](https://www.codewars.com/users/A-noob-in-Coding/badges/large)](https://www.codewars.com/users/A-noob-in-Coding)
