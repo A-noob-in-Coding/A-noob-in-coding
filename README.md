@@ -4,4 +4,3 @@ Hi, I'm Abd Ur Rehman. I'm a full stack web engineer, I build reliable software 
 
 Open to: Full Stack Engineer roles
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-noob-in-coding&theme=dracula)
